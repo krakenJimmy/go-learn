@@ -1,3 +1,4 @@
+// Reference: https://programming.guide/go/format-parse-string-time-date-example.html
 package main
 
 import (
