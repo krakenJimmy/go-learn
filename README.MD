@@ -1,6 +1,6 @@
 ## go learn code
 
-This repository codes I write from some go websites.
+This repository codes I write  is from some go websites.
 
 ### go learn website
 
